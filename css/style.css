@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@300;400;500;700;900&family=Zen+Old+Mincho&display=swap');
+
+@import url('components/container.css');
+@import url('components/banner.css');
+@import url('components/btn.css');
+@import url('components/avatar.css');
+@import url('components/card.css');
+
+body {
+    font-family: 'Zen Old Mincho', serif;
+    font-size: 16px;
+    color: rgba(20, 20, 20, 0.9);
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin: 0;
+}
+
+h1, h2, h3 {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    color:rgba(20, 20, 20, 0.9);
+    padding: 16px 0 0 0;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color:rgba(20, 20, 20, 0.9)
+}
+a:visited {
+    text-decoration: none;
+}

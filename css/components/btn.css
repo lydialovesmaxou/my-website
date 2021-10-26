@@ -1,0 +1,11 @@
+.btn {
+    background-color: bisque;
+    padding: 10px 15px;
+    margin: 10px;
+    margin-left: 0;
+    border-radius: 4px;
+}
+
+.btn:hover {
+    background-color: coral;
+}
